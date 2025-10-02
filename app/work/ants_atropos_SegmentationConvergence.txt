@@ -1,3 +1,0 @@
-Iteration,Posterior
-0,0.950083
-1,0.950323
